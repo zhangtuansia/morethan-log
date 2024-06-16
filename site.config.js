@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "AI 产品随想集",   
+    name: "Wyatt",     
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: " AI 产品经理",    
     bio: "I develop everything using node.",
