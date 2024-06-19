@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Wyatt",     
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: " AI 产品经理",    
-    bio: "🙇🏻AI产品经理/n 🤯日常分享我的商业观点和先进AI工具 /n 🌍期待与你关于 **产品、生活、世界** 的探讨，感谢你关注❤️ ",
+    bio: "🙇🏻AI产品经理\n🤯日常分享我的商业观点和先进AI工具\n🌍期待与你关于 **产品、生活、世界** 的探讨，感谢你关注❤️",
     email: "yanzgiheng54@gmail.com",
     linkedin: "morethanmin",
     github: " ",
